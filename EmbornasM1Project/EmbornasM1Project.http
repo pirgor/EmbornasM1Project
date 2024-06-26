@@ -1,0 +1,6 @@
+@EmbornasM1Project_HostAddress = http://localhost:5236
+
+GET {{EmbornasM1Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
